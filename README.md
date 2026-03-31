@@ -11,26 +11,30 @@
 ## Images
 
 * PCB                         
-*  <img width="500" height="350" alt="PCB" src="https://github.com/user-attachments/assets/371d1cdf-608c-45f3-ac77-de89e661c70d" />
+* <img width="500" height="300" alt="PCB" src="https://github.com/user-attachments/assets/cf8f50f8-32d2-43b6-8cc7-5fe7da28e4bc" />
 * Schematic 
-* <img width="500" height="350" alt="Shematic" src="https://github.com/user-attachments/assets/aa4a3836-27f3-45bb-a136-9a4bf064e8cd" />
+* <img width="500" height="300" alt="Shematic" src="https://github.com/user-attachments/assets/5b15ae4c-17c4-4cf7-9fcc-e07f692f5482" />
 *  Assembly
-* <img width="500" height="350" alt="Assembly" src="https://github.com/user-attachments/assets/e1b5b702-0648-49f4-b1fb-1dbcc986fc5b" />
+* <img width="500" height="300" alt="Assembly" src="https://github.com/user-attachments/assets/084f12e1-d5cf-422e-a791-7540551eed20" />
+
 
 ---
 
 ## Case & Mounting
 
 * The case is **fully 3D‑printed** 
-* PCB is mounted directly to the case 
+* PCB is placed directly to the case and it rests there 
 
 ---
 
-## Assembly Notes
+## Assembly steps
 
-1. Solder all components to the PCB
-2. Place the PCB in the case and screw the top plate
-3. Attach keycaps 
+1. Solder all components to the PCB.
+2. Place the assembled PCB in the case (The PCB just rests there, no bolts throug it)
+3. Bolt the top plate to the bottom one with heat inserts
+4. Attach the switches with the keycaps in the hotswap modules.
+
+* I will add photos to the process once i get the parts
 
 ---
 
@@ -50,12 +54,16 @@ Perfect for:
 
 ## Bill of Materials (BOM)
 
-* MX‑style mechanical switches (**12x**) 
-* Blank DSA keycaps – **White** (**12x**)
-* Rotary encoder EC11E 
-* XIAO RP2040-dip
-* 0.91 inch screen 
-
+| Name | Purpose | Qty | Cost (USD) | Distributor |
+|------|---------|-----|------------|-------------|
+| [Hotswap modules](https://www.gateron.com/products/gateron-hot-swap-pcb-socket?VariantsId=10170) | Making the switches removable | 1 | $7.00 | Gateron |
+| [Switches](https://www.gateron.com/products/gateron-smoothie-silver-switch-set?VariantsId=11394) | Buttons | 1 | $14.73 | Gateron |
+| [Diodes](https://www.aliexpress.com/item/1005007160563285.html) | Make the signal go in one direction | 1 | $2.18 | AliExpress |
+| [Rotary encoder](https://www.aliexpress.com/item/1005006111225091.html) | Probably for volume | 1 | $3.30 | AliExpress |
+| PCB | The place for everything | 1 | $3.50 | JLCPCB |
+| [XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html) | The brain for the thing | 1 | $13.70 | Seeed Studio |
+| [128x32 screen](https://www.aliexpress.com/item/1005008640132638.html) | Showing some information | 1 | $2.27 | AliExpress |
+| **Total** | | | **$46.68** | |
 ## Credits
 
 Designed and built by *(Anton/ Anton-2785-bit)*
