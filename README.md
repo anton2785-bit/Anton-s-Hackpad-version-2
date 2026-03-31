@@ -41,6 +41,9 @@
 ## Firmware
 
 * I used KMK for this project, but ill improve it when i get the hackpad
+* Claude helprd a bit for this part: The screen interface for now is not human made, but once I get all the parts needed for testing it.
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4a5e95c6-6dcf-44b9-afc7-85afba133f24" />
+
   
 ---
 
