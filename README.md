@@ -1,12 +1,14 @@
 # Anton-s-Hackpad-versuon-2
 
 ---
-# What is this project
+## What is this project
 
 * The mini hackpad's purpose is to make my life a little easier. It does it in the form of shortcuts. The display will be used to show information like the shortcut layer, that the hackpad is on ( For example instead of 12 buttons for shortcuts I have 24 or more ). The rotary encoder could be programmed to do anything. I am going to probably make it adjust my volume or cycle trough profiles/layers of shortcuts. 
 ---
+## Why i made this project/hackpad
 
-### Images
+* I made this hackpad do make my life easier. It will do this by being programmed with shortcuts (or actions) that will save me 1 or 2 clicks on my mouse per action. For example I want to have a shortcut for some apps and sites to oppen at the same time in one configuration (the site on the left and the app on the right).
+## Images
 
 * PCB                         
 *  <img width="500" height="350" alt="PCB" src="https://github.com/user-attachments/assets/371d1cdf-608c-45f3-ac77-de89e661c70d" />
