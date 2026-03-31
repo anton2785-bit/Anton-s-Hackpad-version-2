@@ -1,0 +1,8 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"Hotswap modules","Making the switches removable",1,7.00,"https://www.gateron.com/products/gateron-hot-swap-pcb-socket?VariantsId=10170","Gateron"
+"switches","buttons",1,14.73,"https://www.gateron.com/products/gateron-smoothie-silver-switch-set?VariantsId=11394","Gateron"
+"Diodes","Make the signal go in one direction",1,2.18,"https://www.aliexpress.com/item/1005007160563285.html?spm=a2g0o.cart.0.0.7fd238daJCa5WD&mp=1&pdp_npi=6%40dis%21USD%21USD%203.29%21USD%202.18%21%21USD%202.16%21%21%21%40211b813b17736103702787994e641f%2112000039653324544%21ct%21BG%217453050691%21%212%210%21","Aliexpress"
+"Rotary encoder","Probably for volume",1,3.30,"https://www.aliexpress.com/item/1005006111225091.html?spm=a2g0o.cart.0.0.7fd238daJCa5WD&mp=1&pdp_npi=6%40dis%21USD%21USD%203.30%21USD%203.30%21%21USD%203.30%21%21%21%40211b813b17736103702787994e641f%2112000035799539609%21ct%21BG%217453050691%21%211%210%21","Aliexpress"
+"PCB","The place for everything",1,3.50,"","JLCPCB"
+"XIAO rp 2040","The brain for the thing",1,13.70,"https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html","Seeed studio"
+"128x32 screen","Showing some information",1,2.27,"https://www.aliexpress.com/item/1005008640132638.html?spm=a2g0o.cart.0.0.7fd238daJCa5WD&mp=1&pdp_npi=6%40dis%21USD%21USD%202.72%21USD%202.72%21%21USD%202.72%21%21%21%40211b813b17736103702787994e641f%2112000046056501838%21ct%21BG%217453050691%21%211%210%21","Aliexpress"
